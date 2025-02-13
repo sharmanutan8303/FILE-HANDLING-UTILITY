@@ -71,7 +71,7 @@ public class Filedemo {
         }
 
     public static void main(String[] args){
-        //crete a file
+        //create a file
         createFile();
 
         //write a file
